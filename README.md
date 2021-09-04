@@ -1,14 +1,13 @@
-#Background
+# Background
 
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
 
-#Part I - WeatherPy
+# WeatherPy
 
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized simple Python library and OpenWeatherMap API
 
-To see my Python script, check jupyter notebook here
 
-#Observation
+# Observation
 
 1. Southern Hemisphere climates tend to be slightly milder than those at similar latitudes in the Northern Hemisphere. This is because the Southern Hemisphere has significantly more ocean and much less land; water heats up and cools down more slowly than land.
 
